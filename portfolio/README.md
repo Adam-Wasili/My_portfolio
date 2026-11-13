@@ -1,16 +1,13 @@
 # Personal Portfolio Website
 
-> **Before submitting:** replace every `TODO` in this file and in the website,
-> then delete this notice.
-
-A personal portfolio website for **[Your Full Name]**, a Computer Science
-student at **[Your University]**. It presents an introduction, academic
+A personal portfolio website for **[Adam Wasili]**, a Computer Science
+student at **[DMI St John the Baptist University]**. It presents an introduction, academic
 background, technical skills, projects and a set of animated demos.
 
 ## Live site
 
-- **Published website:** TODO — `https://YOUR-USERNAME.github.io/personal-portfolio/`
-- **GitHub repository:** TODO — `https://github.com/YOUR-USERNAME/personal-portfolio`
+- **Published website:** `https://Adam-Wasili.github.io/personal-portfolio/`
+- **GitHub repository:** `https://github.com/Adam-Wasili/personal-portfolio`
 
 ## Sections
 
@@ -60,9 +57,9 @@ Opening `index.html` directly in a browser also works.
 
 ## Author
 
-**[Your Full Name]**
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
+**[Adam WAsili]**
+- Email: [wasiliadam4@gmail.com](mailto:wasiliadam4@gmail.com)
+- GitHub: [github.com/Adam-Wasili](https://github.com/Adam-Wasili)
 
 ## Acknowledgements
 
