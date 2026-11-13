@@ -6,8 +6,8 @@ background, technical skills, projects and a set of animated demos.
 
 ## Live site
 
-- **Published website:** `https://Adam-Wasili.github.io/personal-portfolio/`
-- **GitHub repository:** `https://github.com/Adam-Wasili/personal-portfolio`
+- **Published website:** `https://adam-wasili.github.io/My_portfolio/`
+- **GitHub repository:** `https://github.com/Adam-Wasili/My_portfolio`
 
 ## Sections
 
