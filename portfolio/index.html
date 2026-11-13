@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<!-- ============================================================
+     index.html — HOME
+     Every page in this site shares the same shell:
+     doctype -> html -> head -> body -> header/nav -> main -> footer.
+     Keep that structure identical on all four pages so the
+     navigation never breaks.
+     ============================================================ -->
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Adam Wasili — Computer Science Portfolio</title>
+  <meta name="description" content="Personal portfolio of Adam Wasili, a Computer Science student specialising in web development.">
+  <meta name="theme-color" content="#0b1020">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html">Adam Wasili</a>
+
+      <nav aria-label="Main navigation">
+        <ul class="nav-list">
+          <li><a href="index.html" aria-current="page">Home</a></li>
+          <li><a href="about.html">About Me</a></li>
+          <li><a href="projects.html">Projects</a></li>
+          <li><a href="animations.html">Animated Concepts</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+
+    <!-- HERO ---------------------------------------------------
+
+    --------------------------------------------------------- -->
+    <section class="hero-section">
+      <div class="container hero">
+        <div class="hero-text">
+          <p class="eyebrow">Hello, I'm</p>
+          <h1>ADAM WASILI</h1>
+
+          <!-- The typing effect is driven by js/script.js.
+               The text inside the span is the no-JavaScript fallback. -->
+          <p class="hero-role">
+            <span id="typing">Computer Science Student</span><span class="caret" aria-hidden="true"></span>
+          </p>
+
+          <p class="lead">
+            <!-- TODO: 2–3 sentences — who you are, what you study,
+                 what you like to build. Write it in your own voice. -->
+            I am a final-year Computer Science student who enjoys turning ideas into
+            clean, accessible web experiences. I care about how things work under the
+            hood as much as how they look on the surface.
+          </p>
+
+          <!-- TODO: your professional interests (at least three). -->
+          <ul class="interest-list">
+            <li>Web Development</li>
+            <li>Software Engineering</li>
+            <li>Graphic Designer</li>
+          </ul>
+
+          <div class="hero-actions">
+            <a class="btn btn-primary" href="projects.html">View My Projects</a>
+            <a class="btn btn-ghost" href="about.html#contact">Contact Me</a>
+          </div>
+        </div>
+
+        <div class="hero-media">
+          <img src="images/pic2.JPG"
+               alt="Portrait of Adam Wasili"
+               width="200" height="200">
+        </div>
+      </div>
+    </section>
+
+    <!-- TODO: optional teaser section — e.g. three quick highlights
+         (a recent project, a skill, a goal). Add class="reveal" to
+         any block you want to fade in on scroll. -->
+
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>&copy; 2026 Adam Wasili. Built with HTML, CSS and JavaScript.</p>
+      <p>
+        <a href="https://github.com/Adam-Wasili" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
